@@ -21,6 +21,19 @@ public class MainActivity extends AppCompatActivity {
         alphabets.add("B");
         alphabets.add("C");
         alphabets.add("D");
+        alphabets.add("E");
+        alphabets.add("F");
+        alphabets.add("G");
+        alphabets.add("H");
+        alphabets.add("I");
+        alphabets.add("J");
+        alphabets.add("K");
+        alphabets.add("L");
+        alphabets.add("M");
+        alphabets.add("N");
+        alphabets.add("O");
+
+
 
         ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, alphabets);
 
